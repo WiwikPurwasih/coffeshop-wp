@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 - Log 1
 
 - Log 2
+
+- Log 3
